@@ -1,0 +1,85 @@
+Microsoft Windows [Version 10.0.26120.3073]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>cd /path/to/your-project   # ไปที่โฟลเดอร์โปรเจกต์
+The system cannot find the path specified.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git init                   # เริ่มต้น Git
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git add .                  # เพิ่มไฟล์ทั้งหมด
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git commit -m "Initial commit"  # บันทึกการเปลี่ยนแปลง
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git branch -M main         # ตั้งชื่อ branch เป็น main
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git remote add origin https://github.com/Siriza909/pinkpow101-gmail.com.git  # เชื่อมกับ GitHub
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git push -u origin main    # อัปโหลดไปที่ GitHub
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>cd /path/to/your-project   # ไปที่โฟลเดอร์โปรเจกต์
+The system cannot find the path specified.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git init                   # เริ่มต้น Git
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git add .                  # เพิ่มไฟล์ทั้งหมด
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git commit -m "Initial commit"  # บันทึกการเปลี่ยนแปลง
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git branch -M main         # ตั้งชื่อ branch เป็น main
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git remote add origin https://github.com/Siriza909/pinkpow101-gmail.com.git  # เชื่อมกับ GitHub
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git push -u origin main    # อัปโหลดไปที่ GitHub
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>cd /path/to/your-project   # ไปที่โฟลเดอร์โปรเจกต์
+The system cannot find the path specified.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git init                   # เริ่มต้น Git
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git add .                  # เพิ่มไฟล์ทั้งหมด
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git commit -m "Initial commit"  # บันทึกการเปลี่ยนแปลง
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git branch -M main         # ตั้งชื่อ branch เป็น main
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git remote add origin https://github.com/Siriza909/pinkpow101-gmail.com.git  # เชื่อมกับ GitHub
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>git push -u origin main    # อัปโหลดไปที่ GitHub
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\siriz\OneDrive\sirinew\文档\pinkpow101-gmail.com>
